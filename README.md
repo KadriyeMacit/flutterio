@@ -1,6 +1,6 @@
 # flutterio
 
-It is a project for Turkey Flutter Hacktron. 
+It is a project for Turkey Flutter Hackathon. #TurkeyHackathon21
 
 We used Firebase and Provider.
 
